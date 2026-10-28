@@ -25,7 +25,7 @@ This project verifies and analyzes the requirements of a Polar Seed Vault system
 - `proofs/`: Verification arguments.
 - `reports/`: Taxonomy, summaries, and charts.
 
-## 3. Requirements Baseline: PSVS-REQ-v1.0
+## 3. Requirements Baseline: REQ-v1.0
 
 | ID | Requirement |
 |---|---|
